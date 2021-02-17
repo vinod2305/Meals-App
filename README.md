@@ -1,4 +1,4 @@
-# deli_meals
+# Meal App
 
 A new Flutter application.
 
